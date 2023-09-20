@@ -39,7 +39,7 @@ receive_message_frame = tk.Frame(root)
 receive_message_frame.pack()
 
 decrypted_message_text = tk.StringVar()
-decrypted_message_label = tk.Label(receive_message_frame, text="Decrypted Message:")
+decrypted_message_label = tk.Label(receive_message_frame, text="Receive Message:")
 decrypted_message_label.pack()
 decrypted_message_display = tk.Label(receive_message_frame, textvariable=decrypted_message_text)
 decrypted_message_display.pack()
