@@ -24,6 +24,6 @@ RSA encryption is a widely used asymmetric encryption algorithm that allows secu
 - `rsa` library
 - `tinker`library (usually included with python)
 
-#Contributing
+## Contributing
   If you'd like to contribute to this project, please contact: hophuchynk@gmail.com
   I will appreciate your contribution to improve and develop my project
