@@ -19,7 +19,7 @@ RSA encryption is a widely used asymmetric encryption algorithm that allows secu
 2. Run the application
    python main.py
 
-#Depencencies
+## Depencencies
 - Python 3.x
 - 'rsa' library
 - 'tinker'library (usually included with python)
